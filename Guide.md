@@ -23,7 +23,7 @@ L'**AI Health Assistant** est une API REST développée avec **Django Rest Frame
 Toutes les commandes ici sont écrites pour un Windows !
 1. Cloner le projet :
    ```sh
-   git clone https://github.com/votre-repo/ai-health-assistant.git
+   git clone https://github.com/Mael-EPSI/Health_Project.git
    cd api
    ```
 2. Créer et activer un environnement virtuel :
